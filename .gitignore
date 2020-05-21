@@ -1,0 +1,13 @@
+
+#has too many files
+node_modules/
+
+#environment variables
+.env
+
+#vscode dir
+**/.vscode/
+#virtualenv files
+bin/
+lib/
+pyvenv.cfg
